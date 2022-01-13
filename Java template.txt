@@ -1,0 +1,10 @@
+// Student Name 	: Odhrán Butler
+// Student Id Number: C00263565
+// Date 			: Oct-2021
+// Purpose 			: class implementation
+
+public class lab2aq1 {
+    public static void main(String[] args) throws Exception {
+        System.out.println("Hello, World!");
+    }
+}
